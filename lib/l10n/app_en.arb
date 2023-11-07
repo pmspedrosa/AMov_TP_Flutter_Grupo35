@@ -1,0 +1,104 @@
+{
+    "title": "Weather",
+    "@title": {
+      "description": "App title"
+    },
+
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "mensagemTeste": "Stuff, your location is:",
+    "@mensagemTeste": {
+      "description": "TESTE TEST"
+    },
+
+    "msgLastUpdate": "Last update was {month}/{day}/{year} at {time}",
+    "@msgLastUpdate": {
+      "description": "Last update date.",
+      "placeholders":{
+        "day": {
+          "type": "String",
+          "example" : "01" 
+        },
+        "month": {
+          "type": "String",
+          "example" : "01" 
+        },
+        "year": {
+          "type": "String",
+          "example" : "2000" 
+        },
+        "time": {
+          "type": "String",
+          "example" : "00:00" 
+        }
+      }
+    },
+
+    "msgNoSavedData": "There is no previously saved data!",
+    "@msgNoSavedData": {
+      "description": "No data in shared preferences."
+    },
+
+    "msgErrorSavingData": "Error saving new data! Please update again.",
+    "@msgErrorSavingData": {
+      "description": "Error saving data."
+    },
+
+    "weatherAtmosphere": "Fog",
+    "@weatherAtmosphere": {
+      "description": "Foggy weather."
+    },
+    
+    "weatherClouds": "Cloudy",
+    "@weatherClouds": {
+      "description": "Cloudy weather."
+    },
+    
+    "weatherDrizzle": "Drizzle",
+    "@weatherDrizzle": {
+      "description": "Drizzle weather."
+    },
+    
+    "weatherRain": "Rain",
+    "@weatherRain": {
+      "description": "Rainy weather."
+    },
+    
+    "weatherSnow": "Snow",
+    "@weatherSnow": {
+      "description": "Snowy weather."
+    },
+
+    "weatherThunder": "Thunderstorm",
+    "@weatherThunder": {
+      "description": "Thunderstorm weather."
+    },
+    
+    "weatherClear": "Clear",
+    "@weatherClear": {
+      "description": "Clear weather."
+    },
+
+    "wind": "Wind",
+    "@wind": {
+      "description": "Wind."
+    },
+        
+    "humidity": "Humidity",
+    "@humidity": {
+      "description": "Humidity."
+    },
+            
+    "pressure": "Pressure",
+    "@pressure": {
+      "description": "Pressure."
+    },
+
+    "noData": "No Data",
+    "@noData": {
+      "description": "No data."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Meteorologia",
+    "helloWorld": "Olá Mundo!",
+    "mensagemTeste": "Coisas, a tua localização é:",
+    "msgLastUpdate": "Última atualização foi {day}/{month}/{year} às {time}",
+    "msgNoSavedData": "Não há dados gravados previamente",
+    "msgErrorSavingData": "Erro a gravar novos dados! Atualize de novo, por favor.",
+    "weatherClear": "Limpo",
+    "weatherAtmosphere": "Nevoeiro",
+    "weatherClouds": "Nublado",
+    "weatherDrizzle": "Chuvisco",
+    "weatherRain": "Chuva",
+    "weatherSnow": "Neve",
+    "weatherThunder": "Trovoada",
+    "wind": "Vento",
+    "humidity": "Humidade",
+    "pressure": "Pressão",
+    "noData": "Sem dados"
+
+
+}
