@@ -43,7 +43,7 @@ The application is built using the Flutter framework. It relies on the OpenWeath
 ## Design
 The user interface design was inspired by a publicly available design. You can view the design that served as inspiration [here](https://search.muz.li/NjcyYzlmYTRi). We made some modifications to accommodate all the required features.
 
-##Authors
+## Authors
 - [pmspedrosa](https://github.com/pmspedrosa)
 - [APC15](https://github.com/APC15)https://github.com/APC15
 - [C4CP10](https://github.com/C4CP10)https://github.com/C4CP10
